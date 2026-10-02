@@ -3,10 +3,11 @@
 </p>
 
 
-
-# ☁️ AWS — Usar o AWS Systems Manager
-
-## 📌 Sobre o laboratório
+<header>
+  <h1 align="center">☁️ AWS — Usar o AWS Systems Manager
+</header>
+  
+<h1 align="center"> 📌 Sobre o laboratório </h1>
 
 Este laboratório apresenta o **AWS Systems Manager**, serviço da AWS utilizado para centralizar dados operacionais, automatizar tarefas e gerenciar recursos em ambientes de nuvem e ambientes híbridos.
 
