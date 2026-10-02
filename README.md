@@ -1,3 +1,9 @@
+<p align="center">
+<img width="600" alt="AWS Systems Manager" src="https://github.com/user-attachments/assets/79a6e3f4-df02-4a48-8dab-0b1192d453de" />
+</p>
+
+
+
 # ☁️ AWS — Usar o AWS Systems Manager
 
 ## 📌 Sobre o laboratório
@@ -183,7 +189,8 @@ Também foi possível observar como esses recursos podem apoiar a administraçã
 Registro da configuração do inventário e da consulta às informações coletadas pelo Fleet Manager.
 
 <p align="center">
-  <img width="800" alt="Inventário da instância no AWS Systems Manager" src="URL_DA_IMAGEM" />
+<img width="1903" height="886" alt="Image" src="https://github.com/user-attachments/assets/0bffb45f-fbb0-4a71-b77f-854173c399fe" />
+<img width="1904" height="881" alt="Image" src="https://github.com/user-attachments/assets/1be5a44c-9f90-4af7-9010-c78af3080b27" />
 </p>
 
 ### ⚙️ Instalação da aplicação com Run Command
@@ -191,7 +198,9 @@ Registro da configuração do inventário e da consulta às informações coleta
 Registro da execução do comando utilizado para instalar o Widget Manufacturing Dashboard.
 
 <p align="center">
-  <img width="800" alt="Execução do Run Command" src="URL_DA_IMAGEM" />
+<img width="1903" height="880" alt="Image" src="https://github.com/user-attachments/assets/ad2dd849-bc65-4248-b9f7-cbde196a5081" />
+<img width="1901" height="882" alt="Image" src="https://github.com/user-attachments/assets/ff47e319-7691-4cb9-a055-415a815d6b57" />
+<img width="1898" height="880" alt="Image" src="https://github.com/user-attachments/assets/8ec14b23-88e8-46f6-aa92-a5bb1e796023" />
 </p>
 
 ### 🗂️ Parâmetro da aplicação
@@ -199,7 +208,7 @@ Registro da execução do comando utilizado para instalar o Widget Manufacturing
 Registro da criação do parâmetro `/dashboard/show-beta-features` no Parameter Store.
 
 <p align="center">
-  <img width="800" alt="Configuração do Parameter Store" src="URL_DA_IMAGEM" />
+  <img width="1901" height="887" alt="Image" src="https://github.com/user-attachments/assets/18d4e19a-96b2-471d-b1c8-2a4a15904f6a" />
 </p>
 
 ### 💻 Acesso com Session Manager
@@ -207,7 +216,10 @@ Registro da criação do parâmetro `/dashboard/show-beta-features` no Parameter
 Registro da sessão interativa e da execução de comandos na instância EC2.
 
 <p align="center">
-  <img width="800" alt="Sessão do AWS Systems Manager Session Manager" src="URL_DA_IMAGEM" />
+<img width="1899" height="872" alt="Image" src="https://github.com/user-attachments/assets/d0bb55d0-b34f-4b52-9447-549affa58f58" />
+<img width="1900" height="884" alt="Image" src="https://github.com/user-attachments/assets/738a4c9c-3f4b-4adc-bcb1-8b84f6bfcbd3" />
+<img width="1920" height="889" alt="Image" src="https://github.com/user-attachments/assets/85b45b6a-a01c-4d4e-a0b3-5b02fa6dcf84" />
+<img width="692" height="388" alt="Image" src="https://github.com/user-attachments/assets/33bf6cb1-00ed-404f-b115-f68c2d82dc05" />
 </p>
 
 ---
@@ -257,10 +269,18 @@ Material utilizado para a realização das atividades práticas de gerenciamento
 ---
 
 <p align="center">
-  <sub>☁️ Laboratório prático de AWS Cloud desenvolvido para fins educacionais e de aprendizado contínuo.</sub>
+  ☁️ <strong>Aprendizado contínuo em Cloud Computing</strong> ☁️
 </p>
 
 <p align="center">
-  <sub>© 2026 Alessandrodevbp — Todos os direitos reservados.</sub>
+  <sub>Laboratório realizado para fins educacionais.</sub>
 </p>
+
+
+
+
+<p align="center">
+  <sub>© 2026 Alessandro Batista Prudente — Todos os direitos reservados.</sub>
+</p>
+
 
